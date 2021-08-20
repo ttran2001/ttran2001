@@ -7,3 +7,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 🍔 I'm looking help to get a better understanding in Algorithms and Data Structures
 - 📫 You can reach me on my email: tylertran161@gmail.com
+- 👓 Fun Fact: I'm part Vietnamese and Chinese
