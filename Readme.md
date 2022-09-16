@@ -1,5 +1,6 @@
 ### 👋 Hi, I’m @ttran2001
 
+- 🐶 My full name is Tyler Tuan Tran
 - 👀 I’m currently a Senior at the University of Tulsa
 - 🔫 I'm currently majoring in Computer Science and Minoring in Mathematics and Cyber Security
 - 🧨 I'm  study abroad at Korea at Hanyang University
